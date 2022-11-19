@@ -6,10 +6,11 @@ class EN(object):
 # BASICS
 #
 #----------------
-    WELCOME_MSG = "Hello {} Sir"
-    START_DOWNLOAD = "Starting to download..........."
-    ANTI_SPAM_WAIT = "Wait for the current task to complete!"
-    TASK_COMPLETED = "Download Finished"
+    WELCOME_MSG = "<b>Hello {} Sir<b/>, use /download [URL] to download songs/albums from TIDAL, QOBUZ & KKBOX.
+Visit our channels @monomars_ch."
+    START_DOWNLOAD = "🟢 Starting to download..........."
+    ANTI_SPAM_WAIT = "♻️ Wait for the current task to complete!"
+    TASK_COMPLETED = "✅️ Download Finished"
 
 
 
@@ -36,7 +37,7 @@ class EN(object):
 # MUSIC DETAILS - TELEGRAM
 #
 #----------------
-    USER_MENTION_ALBUM = "❤️ <b>Requested by :</b> {}"
+    USER_MENTION_ALBUM = "🆔️ <b>Requested by :</b> {}"
     USER_MENTION_TRACK = "Requested by {}"
 
     # TIDAL
@@ -64,7 +65,7 @@ class EN(object):
 📀 <b>Number of Tracks :</b> {3}
 """
 
-    QOBUZ_ALBUM_QUALITY_ADDON = "💫 <b>Quality :</b> {}k \n"
+    QOBUZ_ALBUM_QUALITY_ADDON = "🏷 <b>Quality :</b> {}k \n"
 
     
 
