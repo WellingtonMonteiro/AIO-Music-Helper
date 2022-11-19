@@ -46,6 +46,7 @@ Visit our channels @monomars_ch."
 👤 <b>ᴀʀᴛɪsᴛ :</b> {1}
 📅 <b>ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ :</b> {2}
 📀 <b>ɴᴜᴍʙᴇʀ ᴏꜰ ᴛʀᴀᴄᴋs :</b> {3}
+🔰 <b>ᴘʟᴀᴛꜰᴏʀᴍ : TIDAL</b>
 🕒 <b>ᴅᴜʀᴀᴛɪᴏɴ :</b> {4}
 🔢 <b>ɴᴜᴍʙᴇʀ ᴏꜰ ᴠᴏʟᴜᴍᴇs :</b> {5}
 """
@@ -55,6 +56,7 @@ Visit our channels @monomars_ch."
 👤 <b>ᴀʀᴛɪsᴛ :</b> {1}
 📅 <b>ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ :</b> {2}
 📀 <b>ɴᴜᴍʙᴇʀ ᴏꜰ ᴛʀᴀᴄᴋs :</b> {3}
+🔰 <b>ᴘʟᴀᴛꜰᴏʀᴍ : KKBOX</b>
 """
 
     # QOBUZ
@@ -63,6 +65,7 @@ Visit our channels @monomars_ch."
 👤 <b>ᴀʀᴛɪsᴛ :</b> {1}
 📅 <b>ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ :</b> {2}
 📀 <b>ɴᴜᴍʙᴇʀ ᴏꜰ ᴛʀᴀᴄᴋs :</b> {3}
+🔰 <b>ᴘʟᴀᴛꜰᴏʀᴍ : QOBUZ</b>
 """
 
     QOBUZ_ALBUM_QUALITY_ADDON = "📦 <b>ǫᴜᴀʟɪᴛʏ :</b> {}k \n"
