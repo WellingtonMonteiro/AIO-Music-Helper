@@ -58,7 +58,7 @@ class Config(object):
         exit(1)
 
     BOT_LANGUAGE = getenv("BOT_LANGUAGE", "en")
-    MENTION_USERS = getenv("MENTION_USERS", False)
+    MENTION_USERS = getenv("MENTION_USERS", True)
     ANIT_SPAM_MODE = getenv("ANIT_SPAM_MODE", False)
 #--------------------
 
