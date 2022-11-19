@@ -6,11 +6,10 @@ class EN(object):
 # BASICS
 #
 #----------------
-    WELCOME_MSG = "<b>Hello {} Sir<b/>, use /download [URL] to download songs/albums from TIDAL, QOBUZ & KKBOX.
-Visit our channels @monomars_ch."
-    START_DOWNLOAD = "🟢 Starting to download..........."
-    ANTI_SPAM_WAIT = "♻️ Wait for the current task to complete!"
-    TASK_COMPLETED = "✅️ Download Finished"
+    WELCOME_MSG = "Hello {} Sir"
+    START_DOWNLOAD = "🟢 𝘚𝘵𝘢𝘳𝘵𝘪𝘯𝘨 𝘵𝘰 𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥..........."
+    ANTI_SPAM_WAIT = "♻️ 𝘞𝘢𝘪𝘵 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵 𝘵𝘢𝘴𝘬 𝘵𝘰 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦!"
+    TASK_COMPLETED = "✅️ 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘍𝘪𝘯𝘪𝘴𝘩𝘦𝘥"
 
 
 
