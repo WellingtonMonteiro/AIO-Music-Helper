@@ -36,12 +36,6 @@ class Config(object):
         LOGGER.warning("NO ADMIN USER IDS FOUND")
         exit(1)
     
-    try:
-        LOG_CHANNEL_ID = int(getenv("LOG_CHANNEL_ID"))
-    except:
-        LOG_CHANNEL_ID = None
-    ALLOW_DUMP = getenv("ALLOW_DUMP", False)
-    
     IS_BOT_PUBLIC = getenv("IS_BOT_PUBLIC", True)
 
     try:
