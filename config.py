@@ -73,7 +73,7 @@ class Config(object):
 # KKBOX VARIABLES
 
 #--------------------
-    KKBOX_KEY = getenv("KKBOX_KEY", "abc")
+    KKBOX_KEY = getenv("KKBOX_KEY", "")
     KKBOX_EMAIL = getenv("KKBOX_EMAIL", "")
     KKBOX_PASSWORD = getenv("KKBOX_PASSWORD", "")
 #--------------------
